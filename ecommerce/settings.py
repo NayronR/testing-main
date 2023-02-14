@@ -135,4 +135,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 SECURE_CROSS_ORIGIN_OPENER_POLICY='same-origin-allow-popups'
 
-CSRF_TRUSTED_ORIGINS = ['https://web-production-6e68.up.railway.app', 'https://luxuryfragrance.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['web-production-ccc3.up.railway.app']
