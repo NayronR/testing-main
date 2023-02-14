@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)8o(3td+akwkhohylfd86c+&ifglvvr!4tqw7h1cwsj!fs-@6+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['servi-san.up.railway.app','web-production-fa39d.up.railway.app', '127.0.0:1']
+ALLOWED_HOSTS = ['https://*.servi-san.up.railway.app','https://*.web-production-fa39d.up.railway.app','https://*.127.0.0.1']
 
 
 # Application definition
